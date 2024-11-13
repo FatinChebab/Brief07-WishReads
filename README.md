@@ -47,4 +47,8 @@ Le fichier `books.json` contient les données de la librairie en ligne, incluant
 - **Liste de lecture personnalisée** : La page **MyWishReads** permet de gérer facilement les livres favoris et de marquer les livres comme lus.
 - **Persistance des données** : L'application sauvegarde les livres favoris afin qu'ils soient accessibles entre les sessions (utilisation du LocalStorage).
 
+## Travail à rendre
+- Maquettes de l'application avec la charte graphique utilisée
+- Code source html,css,js
+
 Cette application **WishReads** propose une solution pratique pour gérer une liste de lecture de livres en ligne, adaptée aux utilisateurs souhaitant organiser et suivre leurs livres préférés.
